@@ -1,0 +1,23 @@
+
+{
+  "short_name": "Kalougata",
+  "name": "KALOUGATA FAMILY Community",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/png?seed=KF&backgroundColor=f59e0b",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/png?seed=KF&backgroundColor=f59e0b",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f59e0b",
+  "description": "Aplikasi resmi komunitas KALOUGATA FAMILY."
+}
