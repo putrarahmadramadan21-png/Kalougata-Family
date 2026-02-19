@@ -1,0 +1,7 @@
+{
+  "name": "KALOUGATA FAMILY - Community Hub",
+  "description": "Aplikasi resmi komunitas KALOUGATA FAMILY untuk manajemen anggota, badge QR unik, dan sistem poin prestasi keluarga.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
